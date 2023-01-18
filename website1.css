@@ -1,0 +1,95 @@
+.body{
+    height: 100%;
+    background-image: linear-gradient(#0f2027,#203a43,#2c5364);
+}
+.navbar{
+
+    background-color: black !important;
+}
+
+.nav-link{
+
+    color: rgb(221, 225, 227);
+    font-weight: bold;
+
+}
+
+.navbar-brand{
+
+    color: white;
+}
+
+
+.nav-link:hover{
+
+    color: rgb(227, 218, 218);
+    border-bottom: 2px solid white;
+
+}
+
+.active{
+
+    color: rgb(255, 0, 0) !important;
+
+
+}
+
+.navbar-toggler-icon{
+
+    background-color: rgba(119, 255, 0, 0.594) !important;
+
+}
+
+.carousal-item img{
+
+    height: 90vh;
+}
+
+.servicess-cols{
+
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card img{
+
+    height: 25vh;
+    background-color: rgb(238, 104, 9) !important;
+}
+
+.card{
+
+    transition: all ease .5s;
+}
+
+
+.container-fluid{
+    background-color: gray;
+}
+
+.container-fluid img{
+    height: 4rem;
+   background-image: linear-gradient(to right, yellow, red);
+   border-radius: 50px;
+}
+.main{
+    background-color: black;
+    
+}
+.card:hover{
+
+    box-shadow: 10px 10px 15px gray;
+    margin-top: -2rem;
+    cursor: pointer;
+}
+.main{
+  
+    background-image: linear-gradient(#7f7fd5,#86a8e7,#91eae4);
+
+
+
+
+}
